@@ -1,0 +1,19 @@
+{
+"products": [
+{
+"title": "zapatillas",
+"href": "prod/zapas1212",
+"image": "zapas.jpg",
+"price": {
+"listPrice": 100,
+"sellingPrice": 180
+}},
+{
+"title": "medias",
+"href": "prod/medias1212",
+"image": "medias.jpg",
+"price": {
+"listPrice": 20,
+"sellingPrice": 28
+}}
+}
